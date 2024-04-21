@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <chapter xml:id="ch-chapter-title" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Chapter Title</title>
+  <title>Final Examination</title>
 
   <introduction>
-    <p> Text before the first section. </p>
+    <p> This is the final examination for MAT 1060 Section 06 Trigonometry for Spring 2023. </p>
   </introduction>
 
   <!-- include sections -->
