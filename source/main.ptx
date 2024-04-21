@@ -6,7 +6,7 @@
 
   <book xml:id="my-great-book">
     <title>MAT 1060 Section 06 Trigonometry</title>
-    <subtitle>Final Examamination Spring 2023</subtitle>
+    <subtitle>Final Examamination for Fall 2023</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
