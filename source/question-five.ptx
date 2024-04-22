@@ -3,9 +3,9 @@
 <section xml:id="question-five" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Question 5</title>
         <p> A student in another trigonometry class asks for your help with one of their final exam review questions. They write out the following solution and you notice a mistake in their solution. </p>
-        <p> <strong> Original Problem: </strong> </p>
+        <p> <alert> Original Problem: </alert> </p>
         <p> Solve the equation <m> \cos^2(\theta)-\sin^2(\theta)=-1-\cos(\theta) </m> on the interval <m> -\frac{\pi}{2} \leq \theta \leq \pi </m>. </p>
-        <p> <strong> Incorrect Solution: </strong> </p>
+        <p> <alert> Incorrect Solution: </alert> </p>
         <p> line 1: <m> \cos^2(\theta)-\sin^2(\theta)=-1-\cos(\theta) </m> </p>
         <p> line 2: <m> \cos^2(\theta)+1-\cos^2(\theta)=-1-\cos(\theta) </m> </p>
         <p> line 3: <m> 1=-1-\cos(\theta) </m> </p>
