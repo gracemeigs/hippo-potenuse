@@ -34,7 +34,61 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.3",
   "title": "Question 3",
-  "body": " Question 3  Given the function ƒ(x)=2cos(3x+2) where −⅔≤x≤−⅔+π\/3  a. Find the inverse function ƒ(x)  "
+  "body": " Question 3  Given the function where   a. Find the inverse function .  b. Solve for the domain and range of .  "
+},
+{
+  "id": "question-four",
+  "level": "1",
+  "url": "question-four.html",
+  "type": "Section",
+  "number": "1.4",
+  "title": "Question 4",
+  "body": " Question 4  Write question 4  "
+},
+{
+  "id": "question-five",
+  "level": "1",
+  "url": "question-five.html",
+  "type": "Section",
+  "number": "1.5",
+  "title": "Question 5",
+  "body": " Question 5  Write question 5  "
+},
+{
+  "id": "question-six",
+  "level": "1",
+  "url": "question-six.html",
+  "type": "Section",
+  "number": "1.6",
+  "title": "Question 6",
+  "body": " Question 6  Write question 6  "
+},
+{
+  "id": "question-seven",
+  "level": "1",
+  "url": "question-seven.html",
+  "type": "Section",
+  "number": "1.7",
+  "title": "Question 7",
+  "body": " Question 7  Write question 7  "
+},
+{
+  "id": "question-eight",
+  "level": "1",
+  "url": "question-eight.html",
+  "type": "Section",
+  "number": "1.8",
+  "title": "Question 8",
+  "body": " Question 8  Write question 8  "
+},
+{
+  "id": "question-nine",
+  "level": "1",
+  "url": "question-nine.html",
+  "type": "Section",
+  "number": "1.9",
+  "title": "Question 9",
+  "body": " Question 9  Write question 9  "
 },
 {
   "id": "backmatter-2",
