@@ -4,12 +4,12 @@
   <title>Question 1</title>
 
  <p> 1. Use the information given in parts (a) and (b) for angles alpha and beta to answer parts (c)-(g). </p>
- <p> a. Sketch the right triangle in the corresponding quadrant for <m>\cos(\alpha)=-\frac{4}{5}</m> cos(&#945;)&#61;&#8722;&#8536; with csc(&#945;)&#60;0. Label the angle and side lengths. </p>
- <p> b. Sketch the right triangle in the corresponding quadrant for &#946;&#61;arcsin(&#8722;&#190;). Label the angle and side lengths. </p>
- <p> c. Find tan(arcsin(&#8722;&#190;)). <m>\tan(\beta)</m> </p>
- <p> d. Find sin(&#945;&#43;&#946;). </p>
- <p> e. Find cos(pi/2 &#8722;&#945;) </p>
- <p> f. Find tan(2&#946;). </p>
- <p> g. Find sin(&#8722;&#945;)&#43;sin(4pi&#43;&#946;). </p>
+ <p> a. Sketch the right triangle in the corresponding quadrant for <m>\cos(\alpha)=-\frac{4}{5}</m> with <m>\csc(\alpha)<0</m>. Label the angle and side lengths. </p>
+ <p> b. Sketch the right triangle in the corresponding quadrant for <m>\beta=\arcsin(-\frac{3}{4})</m>. Label the angle and side lengths. </p>
+ <p> c. Find <m>\tan(\arcsin(-\frac{3}{4}))</m>. </p>
+ <p> d. Find <m>\sin(\alpha+\beta)</m>. </p>
+ <p> e. Find <m>\cos(\frac{\pi}{2}-\alpha)</m> </p>
+ <p> f. Find <m>\tan(2\beta)</m>. </p>
+ <p> g. Find <m>\sin(-\alpha)+\sin(4\pi+\beta)</m>. </p>
 
 </section>
