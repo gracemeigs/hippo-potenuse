@@ -11,5 +11,11 @@
   <xi:include href="question-one.ptx" />
   <xi:include href="question-two.ptx" />
   <xi:include href="question-three.ptx" />
+  <xi:include href="question-four.ptx" />
+  <xi:include href="question-five.ptx" />
+  <xi:include href="question-six.ptx" />
+  <xi:include href="question-seven.ptx" />
+  <xi:include href="question-eight.ptx" />
+  <xi:include href="question-nine.ptx" />
 
 </chapter>

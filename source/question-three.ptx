@@ -2,6 +2,7 @@
 
 <section xml:id="question-three" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Question 3</title>
-        <p> Given the function &#402;(x)&#61;2cos(3x&#43;2) where &#8722;&#8532;&#8804;x&#8804;&#8722;&#8532;&#43;&#960;/3 </p>
-        <p> a. Find the inverse function &#402;(x) </p>
+        <p> Given the function <m>f(x)=2\cos(3x+2)</m> where <m>-\frac{2}{3}\leqx\leq2\frac{2}{3}+\frac{\pi}{3}</m> </p>
+        <p> a. Find the inverse function <m>f^{-1}(x)</m>. </p>
+        <p> b. Solve for the domain and range of <m>f^{-1}(x)</m>. </p>
 </section>
