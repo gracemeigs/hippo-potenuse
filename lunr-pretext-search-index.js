@@ -43,7 +43,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.4",
   "title": "Question 4",
-  "body": " Question 4  Write question 4  "
+  "body": " Question 4  Graphs A and B are given. Fill in the chart below, stating the various properties of the graphs.  "
 },
 {
   "id": "question-five",
@@ -52,7 +52,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.5",
   "title": "Question 5",
-  "body": " Question 5  Write question 5  "
+  "body": " Question 5  A student in another trigonometry class asks for your help with one of their final exam review questions. They write out the following solution and you notice a mistake in their solution.   Original Problem:   Solve the equation on the interval .   Incorrect Solution:   line 1:   line 2:   line 3:      undefined  "
 },
 {
   "id": "question-six",
