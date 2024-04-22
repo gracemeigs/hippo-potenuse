@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Question 1",
-  "body": " Question 1  1. Use the information given in parts (a) and (b) for angles alpha and beta to answer parts (c)-(g).  a. Sketch the right triangle in the corresponding quadrant for cos(α)=−⅘ with csc(α)<0. Label the angle and side lengths.  b. Sketch the right triangle in the corresponding quadrant for β=arcsin(−¾). Label the angle and side lengths.  c. Find tan(arcsin(−¾)).   d. Find sin(α+β).  e. Find cos(pi\/2 −α)  f. Find tan(2β).  g. Find sin(−α)+sin(4pi+β).  "
+  "body": " Question 1  1. Use the information given in parts (a) and (b) for angles alpha and beta to answer parts (c)-(g).  a. Sketch the right triangle in the corresponding quadrant for with . Label the angle and side lengths.  b. Sketch the right triangle in the corresponding quadrant for . Label the angle and side lengths.  c. Find .  d. Find .  e. Find   f. Find .  g. Find .  "
 },
 {
   "id": "question-two",
