@@ -88,7 +88,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.9",
   "title": "Question 9",
-  "body": " Question 9  Write question 9  "
+  "body": " Question 9  Given the polar coordinate , complete the following.  a. Graph point on the grid.  insert pic  b. Based on the unit circle, the rectangular coordinates of the point are (___, ___).  "
 },
 {
   "id": "backmatter-2",
