@@ -70,7 +70,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.7",
   "title": "Question 7",
-  "body": " Question 7  In the picture, is in the center of the circle. The measure of the central angle , the line segment , and line segment .  "
+  "body": " Question 7  In the picture, is in the center of the circle. The measure of the central angle , the line segment , and line segment .  a. Find the area of the entire triangle,   "
 },
 {
   "id": "question-eight",
