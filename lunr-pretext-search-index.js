@@ -70,7 +70,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.7",
   "title": "Question 7",
-  "body": " Question 7  In the picture, is in the center of the circle. The measure of the central angle   "
+  "body": " Question 7  In the picture, is in the center of the circle. The measure of the central angle , the line segment , and line segment .  "
 },
 {
   "id": "question-eight",
