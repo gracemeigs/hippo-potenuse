@@ -70,7 +70,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.7",
   "title": "Question 7",
-  "body": " Question 7  In the picture, is in the center of the circle. The measure of the central angle , the line segment , and line segment .  a. Find the area of the entire triangle,   "
+  "body": " Question 7  In the picture, is in the center of the circle. The measure of the central angle , the line segment , and line segment .  a. Find the area of the entire triangle, . Round to two decimal places.  insert picture  b. Suppose that the shaded region has area . Use your answer from part a to find the length of the radius of the circle. Round to the nearest whole foot.  "
 },
 {
   "id": "question-eight",
@@ -79,7 +79,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.8",
   "title": "Question 8",
-  "body": " Question 8  Write question 8  "
+  "body": " Question 8  A ship leaves the port of San Diego and is moving at a constant speed. After traveling 2 miles, the ship has a bearing of N57°W. If the ship turns 90 ° and heads towards the southwest, approximate how many more miles the ship needs to travel until it has a bearing of S71°W? Round your answer to the nearest whole mile. Draw a picture to illustrate this word problem.  insert pic  "
 },
 {
   "id": "question-nine",
