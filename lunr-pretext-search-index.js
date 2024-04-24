@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.3",
   "title": "Question 3",
-  "body": " Question 3  Given the function where   a. Find the inverse function .  b. Solve for the domain and range of .     Hi there   "
+  "body": " Question 3  Given the function where   a. Find the inverse function .     Hi there     b. Solve for the domain and range of .     Hi there   "
 },
 {
   "id": "question-four",
@@ -52,7 +52,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.5",
   "title": "Question 5",
-  "body": " Question 5  A student in another trigonometry class asks for your help with one of their final exam review questions. They write out the following solution and you notice a mistake in their solution.   Original Problem:   Solve the equation on the interval .   Incorrect Solution:   line 1:   line 2:   line 3:      undefined  a. An error occurs in lines 1-3. State which line the error occurred and explain the mistake.  b. Fix the mistake and determine the correct solution set.     Hi there   "
+  "body": " Question 5  A student in another trigonometry class asks for your help with one of their final exam review questions. They write out the following solution and you notice a mistake in their solution.   Original Problem:   Solve the equation on the interval .   Incorrect Solution:   line 1:   line 2:   line 3:      undefined  a. An error occurs in lines 1-3. State which line the error occurred and explain the mistake.     Hi there     b. Fix the mistake and determine the correct solution set.     Hi there   "
 },
 {
   "id": "question-six",
@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.6",
   "title": "Question 6",
-  "body": " Question 6  Each of the following expressions (parts a through e) form an identity with exactly one of the expressions in the box. Establish each identity, showing which expressions are equal with all intermediate steps .  insert box pic  a.   b.   c.   d.   e.      Hi there   "
+  "body": " Question 6  Each of the following expressions (parts a through e) form an identity with exactly one of the expressions in the box. Establish each identity, showing which expressions are equal with all intermediate steps .  insert box pic  a.      Hi there     b.      Hi there     c.      Hi there     d.      Hi there     e.      Hi there   "
 },
 {
   "id": "question-seven",
@@ -70,7 +70,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.7",
   "title": "Question 7",
-  "body": " Question 7  In the picture, is in the center of the circle. The measure of the central angle , the line segment , and line segment .  a. Find the area of the entire triangle, . Round to two decimal places.  insert picture  b. Suppose that the shaded region has area . Use your answer from part a to find the length of the radius of the circle. Round to the nearest whole foot.     Hi there   "
+  "body": " Question 7  In the picture, is in the center of the circle. The measure of the central angle , the line segment , and line segment .  a. Find the area of the entire triangle, . Round to two decimal places.  insert picture     Hi there     b. Suppose that the shaded region has area . Use your answer from part a to find the length of the radius of the circle. Round to the nearest whole foot.     Hi there   "
 },
 {
   "id": "question-eight",
@@ -88,7 +88,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.9",
   "title": "Question 9",
-  "body": " Question 9  Given the polar coordinate , complete the following.  a. Graph point on the grid.  insert pic  b. Based on the unit circle, the rectangular coordinates of the point are (___, ___).  c. Show that your answer to part b is correct by converting point to rectangular coordinates.  d. Find another set of polar coordinates for point where .     Hi there   "
+  "body": " Question 9  Given the polar coordinate , complete the following.  a. Graph point on the grid.  insert pic     Hi there     b. Based on the unit circle, the rectangular coordinates of the point are (___, ___).     Hi there     c. Show that your answer to part b is correct by converting point to rectangular coordinates.     Hi there     d. Find another set of polar coordinates for point where .     Hi there   "
 },
 {
   "id": "backmatter-2",
