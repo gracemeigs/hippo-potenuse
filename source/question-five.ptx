@@ -15,7 +15,11 @@
         <p> </p>
         <solution>
          <p>
-           Line 2: <m> -\sin^2(\theta)=-(1-\cos^2(\theta))=-1+\cos^2(\theta) </m> (instead of <m> 1-\cos^2(\theta) </m>)
+           Line 2: <m> -\sin^2(\theta)=-(1-\cos^2(\theta))=-1+\cos^2(\theta) </m>
+         </p>
+         <p>
+          (instead of <m> 1-\cos^2(\theta) </m>)
+         </p>
          </p>
          <p>
           Explanation: Trigonometric identity incorrectly applied
@@ -26,7 +30,7 @@
         <p> </p>
         <solution>
          <p>
-           Hi there
+           <m>  </m>
          </p>
         </solution>
 </section>
