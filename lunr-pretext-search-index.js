@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Question 1",
-  "body": " Question 1  1. Use the information given in parts (a) and (b) for angles alpha and beta to answer parts (c)-(g).  a. Sketch the right triangle in the corresponding quadrant for with . Label the angle and side lengths.     Hi there     b. Sketch the right triangle in the corresponding quadrant for . Label the angle and side lengths.     Hi there     c. Find .     Hi there     d. Find .     Hi there     e. Find      Hi there     f. Find .     Hi there     g. Find .     Hi there   "
+  "body": " Question 1  1. Use the information given in parts (a) and (b) for angles alpha and beta to answer parts (c)-(g).  a. Sketch the right triangle in the corresponding quadrant for with . Label the angle and side lengths.           b. Sketch the right triangle in the corresponding quadrant for . Label the angle and side lengths.           c. Find .     Hi there     d. Find .     Hi there     e. Find      Hi there     f. Find .     Hi there     g. Find .     Hi there   "
 },
 {
   "id": "question-two",
