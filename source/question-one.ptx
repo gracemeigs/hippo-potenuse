@@ -16,7 +16,7 @@
  <p> </p>
  <solution>
   <p>
-    <m> s^2+3^2=4^2 \Rightarrow s=\sqrt(7) </m>
+    <m> s^2+3^2=4^2 \Rightarrow s=\sqrt{7} </m>
   </p>
  </solution>
  <p> </p>
@@ -24,7 +24,7 @@
  <p> </p>
  <solution>
   <p>
-    Hi there
+    <m> \tan(\arcsin(-\frac{3}{4}))=-\frac{3}{\sqrt{7}} </m>
   </p>
  </solution>
  <p> </p>
