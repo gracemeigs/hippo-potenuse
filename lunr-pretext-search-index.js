@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Question 2",
-  "body": " Question 2  Two homes are near a tree that is feet tall. The home closest to the tree measures an angle of elevation of to the tree, while the angle of depression from the top of the free to the furthest home is . Approximate the distance between the two homes.  insert picture     Hi there   "
+  "body": " Question 2  Two homes are near a tree that is feet tall. The home closest to the tree measures an angle of elevation of to the tree, while the angle of depression from the top of the free to the furthest home is . Approximate the distance between the two homes.  insert picture         "
 },
 {
   "id": "question-three",
@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.3",
   "title": "Question 3",
-  "body": " Question 3  Given the function where   a. Find the inverse function .     Hi there     b. Solve for the domain and range of .     Hi there   "
+  "body": " Question 3  Given the function where   a. Find the inverse function .           b. Solve for the domain and range of .     Domain of : Range of :    "
 },
 {
   "id": "question-four",
