@@ -16,6 +16,8 @@
         <solution>
          <p>
            Domain of <m> f^{-1}(x) </m>: <m> [-2,2] </m>
+         </p>
+         <p>
            Range of <m> f^{-1}(x) </m>: <m> [-\frac{2}{3},-\frac{2}{3}+\frac{\pi}{3}] </m>
          </p>
         </solution>
