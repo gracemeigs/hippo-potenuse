@@ -7,7 +7,7 @@
         <p> </p>
         <solution>
          <p>
-           Hi there
+           <m> f^{-1}(x)=\frac{1}{3}[\arccos(\frac{x}{2}-2)] </m>
          </p>
         </solution>
         <p> </p>
@@ -15,7 +15,8 @@
         <p> </p>
         <solution>
          <p>
-           Hi there
+           Domain of <m> f^{-1}(x) </m>: <m> [-2,2] </m>
+           Range of <m> f^{-1}(x) </m>: <m> [-\frac{2}{3},-\frac{2}{3}+\frac{\pi}{3}] </m>
          </p>
         </solution>
 </section>
