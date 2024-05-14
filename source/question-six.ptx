@@ -1,46 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="question-six" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Question 6</title>
-        <p> Each of the following expressions (parts a through e) form an identity with exactly one of the expressions in the box. Establish each identity, showing which expressions are equal with <alert> all intermediate steps </alert>. </p>
-        <p> insert box pic </p>
-        <p> a. <m> \tan(x)+\cot(x) </m> </p>
-        <p> </p>
-        <solution>
-         <p>
-           Hi there
-         </p>
-        </solution>
-        <p> </p>
-        <p> b. <m> \sec^2(x)-1 </m> </p>
-        <p> </p>
-        <solution>
-         <p>
-           Hi there
-         </p>
-        </solution>
-        <p> </p>
-        <p> c. <m> -\tan(x)\cos(x) </m> </p>
-        <p> </p>
-        <solution>
-         <p>
-           Hi there
-         </p>
-        </solution>
-        <p> </p>
-        <p> d. <m> \frac{\sec(x)}{\csc(x)} </m> </p>
-        <p> </p>
-        <solution>
-         <p>
-           Hi there
-         </p>
-        </solution>
-        <p> </p>
-        <p> e. <m> \csc^2(x)-\cot^2(x)+\sin^2(x) </m> </p>
-        <p> </p>
-        <solution>
-         <p>
-           Hi there
-         </p>
-        </solution>
+  <title>Question 6</title>
+    <p>
+      Each of the following expressions (parts a through e) form an identity 
+      with exactly one of the expressions in the box. Establish each identity, 
+      showing which expressions are equal with <alert> all intermediate steps </alert>.
+      <image source = "Q2_pic.png" />
+    </p>
+    <p>
+      a. <m> \tan(x)+\cot(x) </m>
+    </p>
+    <solution>
+      <p>
+        <m> \sec(x)\bullet\csc(x) </m>
+      </p>
+    </solution>
+    <p>
+      b. <m> \sec^2(x)-1 </m>
+    </p>
+    <solution>
+      <p>
+        Hi there
+      </p>
+    </solution>
+    <p>
+      c. <m> -\tan(x)\cos(x) </m>
+    </p>
+    <solution>
+      <p>
+        Hi there
+      </p>
+    </solution>
+    <p>
+      d. <m> \frac{\sec(x)}{\csc(x)} </m>
+    </p>
+    <solution>
+      <p>
+        Hi there
+      </p>
+    </solution>
+    <p>
+      e. <m> \csc^2(x)-\cot^2(x)+\sin^2(x) </m>
+    </p>
+    <solution>
+      <p>
+        Hi there
+      </p>
+    </solution>
 </section>
