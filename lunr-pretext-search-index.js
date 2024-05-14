@@ -52,7 +52,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.5",
   "title": "Question 5",
-  "body": " Question 5  A student in another trigonometry class asks for your help with one of their final exam review questions. They write out the following solution and you notice a mistake in their solution.   Original Problem:   Solve the equation on the interval .   Incorrect Solution:   line 1:   line 2:   line 3:      undefined  a. An error occurs in lines 1-3. State which line the error occurred and explain the mistake.   Line 2:   (instead of )  Explanation: Trigonometric identity incorrectly applied   b. Fix the mistake and determine the correct solution set.         "
+  "body": " Question 5  A student in another trigonometry class asks for your help with one of their final exam review questions. They write out the following solution and you notice a mistake in their solution.   Original Problem:   Solve the equation on the interval .   Incorrect Solution:   line 1:   line 2:   line 3:      undefined  a. An error occurs in lines 1-3. State which line the error occurred and explain the mistake.   Line 2:   (instead of )  Explanation: Trigonometric identity incorrectly applied   b. Fix the mistake and determine the correct solution set.       "
 },
 {
   "id": "question-six",
