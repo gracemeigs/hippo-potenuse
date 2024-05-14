@@ -47,10 +47,8 @@
       b. Fix the mistake and determine the correct solution set.
     </p>
     <solution>
-      <p>
-        <center>
-          <m> \cos^2(\theta)-1+\cos^2(\theta)=-1-\cos(\theta) </m>
-        </center>
+      <p style = "text-align: center">
+        <m> \cos^2(\theta)-1+\cos^2(\theta)=-1-\cos(\theta) </m>
       </p>
     </solution>
 </section>
