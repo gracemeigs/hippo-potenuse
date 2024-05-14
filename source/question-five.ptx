@@ -47,11 +47,23 @@
       b. Fix the mistake and determine the correct solution set.
     </p>
     <solution>
-      <p style = "text-align: center;">
+      <p>
         <m> \cos^2(\theta)-1+\cos^2(\theta)=-1-\cos(\theta) </m>
       </p>
-      <p style = "text-align: center">
+      <p>
         <m> 2\cos^2(\theta)+\cos(\theta)=0 </m>
+      </p>
+      <p>
+        <m> \cos(\theta)[2\cos(\theta)+1]=0 </m>
+      </p>
+      <p>
+        <m> \cos(\theta)=0 \Rightarrow {-\frac{\pi}{2},\frac{\pi}{2}} </m>
+      </p>
+      <p>
+        <m> 2\cos(\theta)+1=0 \Rightarrow \cos(\theta)=-\frac{1}{2} \Rightarrow {\frac{2\pi}{3}} </m>
+      </p>
+      <p>
+        <m> \Rightarrow solution set: {-\frac{\pi}{2},\frac{\pi}{2}, \frac{2\pi}{3}} </m>
       </p>
     </solution>
 </section>
