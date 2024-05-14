@@ -21,7 +21,7 @@
     </p>
     <solution>
       <p>
-        Hi there
+        <m> \frac{\sin^2(x)}{\cos^2(x)} </m>
       </p>
     </solution>
     <p>
@@ -29,7 +29,7 @@
     </p>
     <solution>
       <p>
-        Hi there
+        <m> \sin(-x) </m>
       </p>
     </solution>
     <p>
@@ -37,7 +37,7 @@
     </p>
     <solution>
       <p>
-        Hi there
+        <m> \tan(x) </m>
       </p>
     </solution>
     <p>
@@ -45,7 +45,7 @@
     </p>
     <solution>
       <p>
-        Hi there
+        <m> 1+\sin^2(x) </m>
       </p>
     </solution>
 </section>
