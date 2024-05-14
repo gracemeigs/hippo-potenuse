@@ -88,7 +88,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.9",
   "title": "Question 9",
-  "body": " Question 9  Given the polar coordinate , complete the following.  a. Graph point on the grid.  insert pic     Hi there     b. Based on the unit circle, the rectangular coordinates of the point are (___, ___).     Hi there     c. Show that your answer to part b is correct by converting point to rectangular coordinates.     Hi there     d. Find another set of polar coordinates for point where .     Hi there   "
+  "body": " Question 9  Given the polar coordinate , complete the following.  a. Graph point on the grid.        Hi there     b. Based on the unit circle, the rectangular coordinates of the point are (___, ___).     Hi there     c. Show that your answer to part b is correct by converting point to rectangular coordinates.     Hi there     d. Find another set of polar coordinates for point where .     Hi there   "
 },
 {
   "id": "backmatter-2",
