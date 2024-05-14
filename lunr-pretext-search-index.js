@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.3",
   "title": "Question 3",
-  "body": " Question 3  Given the function where   a. Find the inverse function .           b. Solve for the domain and range of .     Domain of :   Range of :    "
+  "body": " Question 3  Given the function where   a. Find the inverse function .       b. Solve for the domain and range of .   Domain of :   Range of :    "
 },
 {
   "id": "question-four",
