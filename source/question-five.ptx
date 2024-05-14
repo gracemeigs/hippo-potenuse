@@ -47,7 +47,7 @@
       b. Fix the mistake and determine the correct solution set.
     </p>
     <solution>
-      <p style = "text-align: center">
+      <p style = "text-align: center;">
         <m> \cos^2(\theta)-1+\cos^2(\theta)=-1-\cos(\theta) </m>
       </p>
       <p style = "text-align: center">
