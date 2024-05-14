@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.6",
   "title": "Question 6",
-  "body": " Question 6  Each of the following expressions (parts a through e) form an identity with exactly one of the expressions in the box. Establish each identity, showing which expressions are equal with all intermediate steps .   a.        b.    Hi there   c.    Hi there   d.    Hi there   e.    Hi there   "
+  "body": " Question 6  Each of the following expressions (parts a through e) form an identity with exactly one of the expressions in the box. Establish each identity, showing which expressions are equal with all intermediate steps .   a.        b.        c.        d.        e.        "
 },
 {
   "id": "question-seven",
