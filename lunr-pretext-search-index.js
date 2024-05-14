@@ -43,7 +43,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.4",
   "title": "Question 4",
-  "body": " Question 4  Graphs A and B are given. Fill in the chart below, stating the various properties of the graphs.         "
+  "body": " Question 4  Graphs A and B are given. Fill in the chart below, stating the various properties of the graphs.        "
 },
 {
   "id": "question-five",
