@@ -2,7 +2,6 @@
 
 <section xml:id="question-one" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Question 1</title>
-
  <p>
     1. Use the information given in parts (a) and (b) for angles alpha and 
     beta to answer parts (c)-(g).
@@ -12,7 +11,6 @@
     <m>\cos(\alpha)=-\frac{4}{5}</m> with <m>\csc(\alpha)&#60;0</m>. 
     Label the angle and side lengths.
 </p>
-<p> </p>
 <solution>
   <p>
     <m> s^2+4^2=5^2 \Rightarrow s=3 </m>
