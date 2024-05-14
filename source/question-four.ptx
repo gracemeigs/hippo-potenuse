@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="question-four" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Question 4</title>
-        <p> Graphs A and B are given. Fill in the chart below, stating the various properties of the graphs. </p>
-        <p> </p>
-        <solution>
-         <p>
-           Hi there
-         </p>
-        </solution>
+  <title>Question 4</title>
+    <p>
+      Graphs A and B are given. Fill in the chart below, stating the various properties of the graphs.
+      <image source = "Q4_graphs.png" />
+      <image source = "Q4_chart.png" />
+    </p>
+    <solution>
+      <p>
+        <image source = "Q4_chart_sol.png" />
+      </p>
+    </solution>
 </section>
