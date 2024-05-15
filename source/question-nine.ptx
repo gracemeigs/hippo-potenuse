@@ -21,7 +21,7 @@
   </p>
   <solution>
     <p>
-      <m> \(\frac{\sqrt(3)}{2}, -\frac{1}{2}\) </m>
+      <m> (\frac{\sqrt(3)}{2}, -\frac{1}{2}) </m>
     </p>
   </solution>
   <p>
@@ -30,7 +30,7 @@
   </p>
   <solution>
     <p>
-      <m> \(x,y\)=\(\frac{\sqrt(3)}{2}, -\frac{1}{2}\) </m>
+      <m> (x,y)=(\frac{\sqrt(3)}{2}, -\frac{1}{2}) </m>
      </p>
   </solution>
   <p>
@@ -42,7 +42,7 @@
       There are multiple correct answers:
     </p>
     <p>
-      <m> \(1,\frac{11\pi}{6}\), \(1,-\frac{\pi}{6}\), \(1,\frac{23}{6}\pi\) </m>
+      <m> (1,\frac{11\pi}{6}), (1,-\frac{\pi}{6}), (1,\frac{23}{6}\pi) </m>
     </p>
   </solution>
 </section>
