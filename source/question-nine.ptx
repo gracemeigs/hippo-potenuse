@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="question-nine" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Question 9</title>
-        <p>
-          Given the polar coordinate <m> P=(-1,\frac{5\pi}{6}) </m>, complete the following.
-        </p>
-        <p> a. Graph point <m> P </m> on the grid. </p>
-        <p> <image source = "Q9_pic.png" width = "50%" /> </p>
-        <p> </p>
-        <solution>
-         <p>
-           Hi there
-         </p>
-        </solution>
-        <p> </p>
-        <p> b. Based on the unit circle, the rectangular coordinates of the point are (___, ___). </p>
-        <p> </p>
-        <solution>
-         <p>
-           Hi there
-         </p>
-        </solution>
-        <p> </p>
-        <p> c. Show that your answer to part b is correct by converting point <m> P </m> to rectangular coordinates. </p>
-        <p> </p>
-        <solution>
-         <p>
-           Hi there
-         </p>
-        </solution>
-        <p> </p>
-        <p> d. Find another set of polar coordinates for point <m> P </m> where <m> r&#62;0 </m>. </p>
-        <p> </p>
-        <solution>
-         <p>
-           Hi there
-         </p>
+  <title>Question 9</title>
+  <p>
+    Given the polar coordinate <m> P=(-1,\frac{5\pi}{6}) </m>, complete 
+    the following.
+  </p>
+  <p>
+    a. Graph point <m> P </m> on the grid.
+    <image source = "Q9_pic.png" width = "50%" />
+  </p>
+  <solution>
+    <p>
+      <image source = "Q9a_sol.png" />
+    </p>
+  </solution>
+  <p>
+    b. Based on the unit circle, the rectangular coordinates of the point 
+    are (___, ___).
+  </p>
+  <solution>
+    <p>
+      <m> \(\frac{\sqrt(3)}{2}, -\frac{1}{2}\) </m>
+    </p>
+  </solution>
+  <p>
+    c. Show that your answer to part b is correct by converting point <m> P </m> 
+    to rectangular coordinates.
+  </p>
+  <solution>
+    <p>
+      <m> \(x,y\)=\(\frac{\sqrt(3)}{2}, -\frac{1}{2}\) </m>
+     </p>
+  </solution>
+  <p>
+    d. Find another set of polar coordinates for point <m> P </m> where 
+    <m> r&#62;0 </m>.
+  </p>
+  <solution>
+    <p>
+      There are multiple correct answers:
+    </p>
         </solution>
 </section>
