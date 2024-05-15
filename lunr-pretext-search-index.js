@@ -70,7 +70,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.7",
   "title": "Question 7",
-  "body": " Question 7  In the picture, is in the center of the circle. The measure of the central angle , the line segment , and line segment .  a. Find the area of the entire triangle, . Round to two decimal places.  insert picture     Hi there     b. Suppose that the shaded region has area . Use your answer from part a to find the length of the radius of the circle. Round to the nearest whole foot.     Hi there   "
+  "body": " Question 7  In the picture, is in the center of the circle. The measure of the central angle , the line segment , and line segment .  a. Find the area of the entire triangle, . Round to two decimal places.        b. Suppose that the shaded region has area . Use your answer from part a to find the length of the radius of the circle. Round to the nearest whole foot.   The radius is about    "
 },
 {
   "id": "question-eight",
