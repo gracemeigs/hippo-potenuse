@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="question-seven" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Question 7</title>
-        <p> In the picture, <m> A </m> is in the center of the circle. The measure of the central angle <m> A=20&#176; </m>, the line segment <m> AB=18 ft </m>, and line segment <m> AC=13 ft </m>. </p>
-        <p> a. Find the area of the entire triangle, <m> &#9651;ABC </m>. Round to two decimal places. </p>
-        <p> insert picture </p>
-        <p> </p>
-        <solution>
-         <p>
-           Hi there
-         </p>
-        </solution>
-        <p> </p>
-        <p> b. Suppose that the shaded region has area <m> 28.85 ft^2 </m>. Use your answer from part a to find the length of the radius of the circle. Round to the nearest whole foot. </p>
-        <p> </p>
-        <solution>
-         <p>
-           Hi there
-         </p>
-        </solution>
+  <title>Question 7</title>
+  <p>
+    In the picture, <m> A </m> is in the center of the circle. The measure of 
+    the central angle <m> A=20&#176; </m>, the line segment <m> AB=18 ft </m>, 
+    and line segment <m> AC=13 ft </m>.
+  </p>
+  <p>
+    a. Find the area of the entire triangle, <m> &#9651;ABC </m>. Round to two 
+    decimal places.
+    <image source = "Q7_pic.png" />
+  </p>
+  <solution>
+    <p>
+      <m> K=40.02 ft^2 </m>
+    </p>
+  </solution>
+  <p>
+    b. Suppose that the shaded region has area <m> 28.85 ft^2 </m>. Use your answer 
+    from part a to find the length of the radius of the circle. Round to the nearest 
+    whole foot.
+  </p>
+  <solution>
+    <p>
+      The radius is about <m> 8 ft </m>
+    </p>
+  </solution>
 </section>
