@@ -14,7 +14,7 @@
   <solution>
     <p>
       <m> s^2+4^2=5^2 \Rightarrow s=3 </m>
-      <image source = "Q1a_pic.png"/>
+      <image source = "Q1a_pic.png" width = "75%" />
     </p>
   </solution>
   <p>
@@ -24,7 +24,7 @@
   <solution>
     <p>
       <m> s^2+3^2=4^2 \Rightarrow s=\sqrt{7} </m>
-      <image source = "Q1b_pic.png" />
+      <image source = "Q1b_pic.png" width = "75%" />
     </p>
   </solution>
   <p>
