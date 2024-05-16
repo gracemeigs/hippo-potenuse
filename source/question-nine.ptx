@@ -34,7 +34,10 @@
       <m> x=r\cos(\theta), y=r\sin(\theta) </m>
     </p>
     <p>
-      <m> x=(-1)\cos(\frac{5\pi}{6})=(-1)(\frac{\sqrt{3}}{2})=\frac{\sqrt{3}}{2} </m>
+      <m> x=(-1)\cos(\frac{5\pi}{6})=(-1)(-\frac{\sqrt{3}}{2})=\frac{\sqrt{3}}{2} </m>
+    </p>
+    <p>
+      <m> y=(-1)\sin(\frac{5\pi}{6})=(-1)(\frac{1}{2})=-\frac{1}{2} </m>
     </p>
     <p>
       <m> \Rightarrow (x,y)=(\frac{\sqrt{3}}{2}, -\frac{1}{2}) </m>
