@@ -79,7 +79,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.8",
   "title": "Question 8",
-  "body": " Question 8  A ship leaves the port of San Diego and is moving at a constant speed. After traveling 2 miles, the ship has a bearing of . If the ship turns and heads towards the southwest, approximate how many more miles the ship needs to travel until it has a bearing of ? Round your answer to the nearest whole mile. Draw a picture to illustrate this word problem.    About miles.   "
+  "body": " Question 8  A ship leaves the port of San Diego and is moving at a constant speed. After traveling 2 miles, the ship has a bearing of . If the ship turns and heads towards the southwest, approximate how many more miles the ship needs to travel until it has a bearing of ? Round your answer to the nearest whole mile. Draw a picture to illustrate this word problem.    The ship will need to travel about miles.   "
 },
 {
   "id": "question-nine",
