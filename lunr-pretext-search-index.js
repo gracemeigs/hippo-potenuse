@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Question 2",
-  "body": " Question 2  Two homes are near a tree that is feet tall. The home closest to the tree measures an angle of elevation of to the tree, while the angle of depression from the top of the free to the furthest home is . Approximate the distance between the two homes. INSERT MY IMAGE HERE!!!       "
+  "body": " Question 2  Two homes are near a tree that is feet tall. The home closest to the tree measures an angle of elevation of to the tree, while the angle of depression from the top of the free to the furthest home is . Approximate the distance between the two homes.        "
 },
 {
   "id": "question-three",
