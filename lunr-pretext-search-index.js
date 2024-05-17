@@ -91,6 +91,15 @@ var ptx_lunr_docs = [
   "body": " Question 9  Given the polar coordinate , complete the following.  a. Graph point on the grid.        b. Based on the unit circle, the rectangular coordinates of the point are (___, ___).       c. Show that your answer to part b is correct by converting point to rectangular coordinates.   We solve for and with the formulas:             d. Find another set of polar coordinates for point where .   There are multiple correct answers:   etc.   "
 },
 {
+  "id": "question-ten",
+  "level": "1",
+  "url": "question-ten.html",
+  "type": "Section",
+  "number": "1.10",
+  "title": "Question 10",
+  "body": " Question 10  HI  "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
