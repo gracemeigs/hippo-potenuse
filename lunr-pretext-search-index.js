@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Question 2",
-  "body": " Question 2  Two homes are near a tree that is feet tall. The home closest to the tree measures an angle of elevation of to the tree, while the angle of depression from the top of the free to the furthest home is . Approximate the distance between the two homes.   "
+  "body": " Question 2  Two homes are near a tree that is feet tall. The home closest to the tree measures an angle of elevation of to the tree, while the angle of depression from the top of the free to the furthest home is . Approximate the distance between the two homes.        "
 },
 {
   "id": "question-three",
@@ -89,15 +89,6 @@ var ptx_lunr_docs = [
   "number": "1.9",
   "title": "Question 9",
   "body": " Question 9  Given the polar coordinate , complete the following.  a. Graph point on the grid.        b. Based on the unit circle, the rectangular coordinates of the point are (___, ___).       c. Show that your answer to part b is correct by converting point to rectangular coordinates.   We solve for and with the formulas:             d. Find another set of polar coordinates for point where .   There are multiple correct answers:   etc.   "
-},
-{
-  "id": "question-ten",
-  "level": "1",
-  "url": "question-ten.html",
-  "type": "Section",
-  "number": "1.10",
-  "title": "Question 10",
-  "body": " Question 10  HI  "
 },
 {
   "id": "backmatter-2",
